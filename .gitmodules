@@ -1,0 +1,3 @@
+[submodule "AMP"]
+	path = AMP
+	url = https://github.com/alonkipnis/AMP.git
